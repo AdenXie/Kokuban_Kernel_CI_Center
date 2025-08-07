@@ -26,9 +26,9 @@
     ],
     "anykernel_repo": "https://github.com/YuzakiKokuban/AnyKernel3.git",
     "anykernel_branch": "kalama",
-    "zip_name_prefix": "S23_kernel",
+    "zip_name_prefix": "S23",
     "push_server": {
-      "enabled": true,
+      "enabled": false,
       "webhook_url": "http://74.176.37.71:8080/webhook"
     }
   },
