@@ -28,7 +28,7 @@
     "anykernel_branch": "kalama",
     "zip_name_prefix": "S23",
     "push_server": {
-      "enabled": false,
+      "enabled": true,
       "webhook_url": "http://74.176.37.71:8080/webhook"
     }
   },
